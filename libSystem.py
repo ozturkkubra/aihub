@@ -1,10 +1,13 @@
 class Library:
 
     def list_book(self):
+
         f =  open("books.txt")
         file_content = f.read()
         f.close()
+
         book_list = file_content.splitlines()
+        
         for book in book_list:
             print(book)
 
@@ -28,6 +31,7 @@ class Library:
         f = open("books.txt")
         file_content = f.read()
         f.close()
+
         book_list = file_content.splitlines()
 
         delete_index = -1
@@ -41,10 +45,10 @@ class Library:
             book_list.pop(delete_index)
         
         new_file_content = "\n".join(book_list)
+
         f = open("books.txt", "w")
         f.write(new_file_content + "\n")
         f.close() 
-
 
 
 lib = Library()
