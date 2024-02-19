@@ -1,0 +1,12 @@
+Don Quixote, Miguel de Cervantes, 1605, 900
+Alice's Adventures in Wonderland, Lewis Carroll
+The Adventures of Huckleberry Finn, Mark Twain, 1884, 366
+The Adventures of Tom Sawyer, Mark Twain, 1876, 216
+Treasure Island, Robert Louis Stevenson, 1883, 304
+Pride and Prejudice, Jane Austen, 1813, 337
+Wuthering Heights, Emily Bronte, 1847, 400
+Jane Eyre, Charlotte Bronte, 1847, 500
+Moby Dick, Herman Melville, 1851, 650
+The Scarlet Letter, Nathaniel Hawthorne, 1850, 250
+Gulliver's Travels, Jonathan Swift, 1726, 275
+The Pilgrim's Progress, John Bunyan, 1678, 360
